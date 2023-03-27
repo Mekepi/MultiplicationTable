@@ -1,0 +1,42 @@
+body {
+    background-color: lightskyblue;
+}
+header {
+    color: white;
+    text-align: center;
+    font-family: "Century Gothic";
+    text-shadow: 2px 3px 1px #00000098;
+}
+section {
+    margin: auto;
+    border-radius: 3%;
+    background-color: white;
+    width: 350px;
+    height: auto;
+    padding: 10px;
+    padding-top: 25px;
+    position: relative;
+    box-shadow: 2px 4px 5px #00000098;
+}
+div {
+    margin-bottom: 15px;
+}
+select {
+    width: 150px;
+    font-size: 70%;
+}
+#aviso {
+    display: none;
+}
+optgroup {
+    margin-top: -13.97px;
+    margin-left: -11px;
+}
+footer {
+    text-align: center;
+    margin: 10px;
+    font-size: 13px;
+    color: white;
+    font-style: italic;
+    text-shadow: 1px 0.5px 0.5px #00000098;
+}
